@@ -1,4 +1,4 @@
-# notes
+# This SPA Notes test task
 
 ## Project setup
 ```
